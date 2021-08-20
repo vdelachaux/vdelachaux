@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/vdelachaux?label=Follow&style=social)](https://github.com/vdelachaux)
 ![](https://visitor-badge.laobi.icu/badge?page_id=vdelachaux.vdelachaux)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdelachaux&show_icons=true&theme=dark&count_private=true)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdelachaux&theme=dark&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdelachaux&theme=dark&langs_count=3&hide_title=true&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdelachaux&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true) 
