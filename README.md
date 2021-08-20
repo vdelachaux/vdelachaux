@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vdelachaux/vdelachaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github](https://img.shields.io/github/followers/vdelachaux?label=Follow&style=social)](https://github.com/vdelachaux)
+![](https://visitor-badge.laobi.icu/badge?page_id=vdelachaux.vdelachaux)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdelachaux&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdelachaux&theme=dark&hide=roff)
