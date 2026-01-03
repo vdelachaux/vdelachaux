@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/vdelachaux?label=Followers&style=social)](https://github.com/vdelachaux)
 ![](https://visitor-badge.laobi.icu/badge?page_id=vdelachaux.vdelachaux)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdelachaux&theme=transparent&langs_count=3&hide_title=true&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdelachaux&theme=transparent&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+-->
 
 <a target="_blank" href="https://www.worldcommunitygrid.org/getDynamicImage.do?teamId=02KT3DN42R1&mnOn=true&stat=3&imageNum=1&rankOn=true&projectsOn=false&special=true&link=2&memberId=744652"><img width="411" height="181" alt="WCG" src="https://github.com/user-attachments/assets/18b6b4a9-f79c-45e4-b985-9b4eda583f29"/></a>
